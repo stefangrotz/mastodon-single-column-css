@@ -24,12 +24,12 @@
     margin-top: 55px;
   }
 
-.ui {background-image: url("https://jazcouk.files.wordpress.com/2018/09/bg1.jpg") !important;}
+.ui {/*background-image: url("https://jazcouk.files.wordpress.com/2018/09/bg1.jpg") !important;*/}
 }
 .text-btn {display: none;}
 .drawer__header {
   height: 110px;
-  background-image: url("https://twtcymru.files.wordpress.com/2019/01/toot-square-grey-285.png") !important;
+  /* background-image: url("https://twtcymru.files.wordpress.com/2019/01/toot-square-grey-285.png") !important;*/
   background-position: left bottom !important;
   background-repeat: no-repeat !important;
  }
